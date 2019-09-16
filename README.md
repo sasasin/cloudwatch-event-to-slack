@@ -27,3 +27,4 @@ CloudWatch Eventsの通知先を、Lambdaファンクションに設定する。
 * https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/WhatIsCloudWatchEvents.html
 * https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/CloudWatchEventsandEventPatterns.html
 * https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/EventTypes.html
+* https://github.com/iktakahiro/slackpy
