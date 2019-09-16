@@ -1,2 +1,2 @@
-# cloudwatch-event-to-slack
-cloudwatch-event-to-slack
+# cloudwatch-events-to-slack
+cloudwatch-events-to-slack
