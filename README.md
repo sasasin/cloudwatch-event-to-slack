@@ -1,5 +1,8 @@
 # cloudwatch-events-to-slack
-cloudwatch-events-to-slack
+
+Any Event -> CloudWatch Event -> Lambda -> Slack
+
+のLambdaファンクションのソースコードです。
 
 # create lambda function by python 3.7
 
